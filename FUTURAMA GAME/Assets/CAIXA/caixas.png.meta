@@ -1,0 +1,1628 @@
+fileFormatVersion: 2
+guid: 193d4388d4a50704ba674bebde129b67
+timeCreated: 1447622546
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: caixas_0
+    21300002: caixas_1
+    21300004: caixas_2
+    21300006: caixas_3
+    21300008: caixas_4
+    21300010: caixas_5
+    21300012: caixas_7
+    21300014: caixas_8
+    21300016: caixas_9
+    21300018: caixas_10
+    21300020: caixas_11
+    21300022: caixas_12
+    21300024: caixas_13
+    21300026: caixas_15
+    21300028: caixas_16
+    21300030: caixas_18
+    21300032: caixas_19
+    21300034: caixas_20
+    21300036: caixas_21
+    21300038: caixas_22
+    21300040: caixas_23
+    21300042: caixas_24
+    21300044: caixas_25
+    21300046: caixas_26
+    21300048: caixas_27
+    21300050: caixas_28
+    21300052: caixas_29
+    21300054: caixas_30
+    21300056: caixas_31
+    21300058: caixas_32
+    21300060: caixas_33
+    21300062: caixas_34
+    21300064: caixas_35
+    21300066: caixas_36
+    21300068: caixas_37
+    21300070: caixas_38
+    21300072: caixas_39
+    21300074: caixas_40
+    21300076: caixas_41
+    21300078: caixas_42
+    21300080: caixas_43
+    21300082: caixas_44
+    21300084: caixas_45
+    21300086: caixas_46
+    21300088: caixas_47
+    21300090: caixas_48
+    21300092: caixas_49
+    21300094: caixas_50
+    21300096: caixas_51
+    21300098: caixas_52
+    21300100: caixas_53
+    21300102: caixas_54
+    21300104: caixas_55
+    21300106: caixas_56
+    21300108: caixas_57
+    21300110: caixas_58
+    21300112: caixas_59
+    21300114: caixas_60
+    21300116: caixas_61
+    21300118: caixas_62
+    21300120: caixas_63
+    21300122: caixas_64
+    21300124: caixas_65
+    21300126: caixas_66
+    21300128: caixas_67
+    21300130: caixas_68
+    21300132: caixas_69
+    21300134: caixas_70
+    21300136: caixas_71
+    21300138: caixas_72
+    21300140: caixas_73
+    21300142: caixas_74
+    21300144: caixas_75
+    21300146: caixas_76
+    21300148: caixas_77
+    21300150: caixas_78
+    21300152: caixas_79
+    21300154: caixas_80
+    21300156: caixas_81
+    21300158: caixas_82
+    21300160: caixas_83
+    21300162: caixas_84
+    21300164: caixas_85
+    21300166: caixas_86
+    21300168: caixas_87
+    21300170: caixas_88
+    21300172: caixas_89
+    21300174: caixas_90
+    21300176: caixas_91
+    21300178: caixas_92
+    21300180: caixas_93
+    21300182: caixas_94
+    21300184: caixas_95
+    21300186: caixas_96
+    21300188: caixas_97
+    21300190: caixas_98
+    21300192: caixas_99
+    21300194: caixas_100
+    21300196: caixas_101
+    21300198: caixas_102
+    21300200: caixas_103
+    21300202: caixas_104
+    21300204: caixas_105
+    21300206: caixas_106
+    21300208: caixas_107
+    21300210: caixas_108
+    21300212: caixas_109
+    21300214: caixas_110
+    21300216: caixas_111
+    21300218: caixas_112
+    21300220: caixas_113
+    21300222: caixas_114
+    21300224: caixas_115
+    21300226: caixas_116
+    21300228: caixas_117
+    21300230: caixas_118
+    21300232: caixas_119
+    21300234: caixas_120
+    21300236: caixas_121
+    21300238: caixas_122
+    21300240: caixas_123
+    21300242: caixas_124
+    21300244: caixas_125
+    21300246: caixas_126
+    21300248: caixas_127
+    21300250: caixas_128
+    21300252: caixas_129
+    21300254: caixas_130
+    21300256: caixas_131
+    21300258: caixas_132
+    21300260: caixas_133
+    21300262: caixas_134
+    21300264: caixas_135
+    21300266: caixas_136
+    21300268: caixas_137
+    21300270: caixas_138
+    21300272: caixas_139
+    21300274: caixas_140
+    21300276: caixas_141
+    21300278: caixas_142
+    21300280: caixas_143
+    21300282: caixas_144
+    21300284: caixas_145
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: caixas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 411
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 411
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 411
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 401
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 401
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 401
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 401
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 401
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 391
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 293
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 391
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 391
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 391
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 391
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_18
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 391
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 376
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_24
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 371
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_26
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 371
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_32
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_35
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_36
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 272
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_37
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 261
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 261
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_41
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 261
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_42
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 261
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_43
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 261
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_44
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 261
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_45
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 251
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 152
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 251
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_48
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 251
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_49
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 152
+        width: 117
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_50
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 251
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_51
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 251
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_52
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 152
+        width: 117
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_53
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 251
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_55
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_56
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_57
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_59
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_63
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_64
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_67
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 222
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_68
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 222
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_69
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 222
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_70
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 225
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 213
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_73
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 213
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_74
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 213
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 203
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 203
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 203
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_78
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 203
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_79
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 203
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_80
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 203
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_83
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_84
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_86
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_87
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_89
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_90
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 184
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_91
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_92
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_93
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_94
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_95
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_96
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_97
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 143
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_98
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 143
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_99
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 143
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_100
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 144
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_101
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 143
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_102
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 143
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_104
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 124
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_105
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_106
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_107
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_108
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_109
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 127
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 18
+        width: 156
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 127
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_112
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 123
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_113
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 18
+        width: 132
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_114
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 115
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_115
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 113
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_116
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 18
+        width: 157
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_117
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_118
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_119
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_121
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_122
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_123
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_124
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_125
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_126
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_127
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_128
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_129
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_130
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_131
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_132
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_133
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_134
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_135
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 27
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_137
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 15
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_138
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 15
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_139
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 15
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_140
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_141
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_142
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_143
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_144
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caixas_145
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
