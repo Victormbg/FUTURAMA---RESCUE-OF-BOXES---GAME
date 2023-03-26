@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class moveesquerda : MonoBehaviour
+public class moveInimigo : MonoBehaviour
 {
     public float vel;
 

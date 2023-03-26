@@ -18,7 +18,7 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     void Start()
 	{
-        velocidade = 3;
+        velocidade = 2;
         direcao = Vector2.zero;
         //rigidBody2D = GetComponent<Rigidbody2D> ();
 	}
@@ -27,6 +27,7 @@ public class Player : MonoBehaviour
 	{
         InputPersonagem();
         transform.Translate(direcao * velocidade * Time.deltaTime);
+        Debug.Log("PONTOS " + point);
         /*
         moveX = Input.GetAxis ("Horizontal");
 			rigidBody2D.velocity = new Vector2 (moveX * 0, rigidBody2D.velocity.y);
@@ -38,7 +39,7 @@ public class Player : MonoBehaviour
 	
 		Debug.Log ("PONTOS " + point);
         */
-	}
+    }
 
     void InputPersonagem()
     {
