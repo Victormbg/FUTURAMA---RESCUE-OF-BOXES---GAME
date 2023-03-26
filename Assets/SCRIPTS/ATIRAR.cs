@@ -1,53 +1,10 @@
-﻿/*
-using System;
-namespace AssemblyCSharp
-var bala : GameObject;
-
-{
-	void Start () {
-    }
-
-	void Update () { 
-    		if ( Input.GetMouseButtonDown (0) )
-
-		{
-        			Instantiate (bala,transform.position,transform.rotation) ;
-  		}
-
-    }
-
-
-//Bala:
-
-#pragma strict
-
-var velocidadeBalaPistol : float ;
-
-	void Start () {
-
-		velocidadeBalaPistol= 10*Time. deltaTime;
-
-	}
-
-	void Update () {
-
-		transform.Translate(0,0,velocidadeBalaPistol);
-
-	}
-
-
-}
-*/
-
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 
-public class atirar : MonoBehaviour
+public class Atirar : MonoBehaviour
 {
-
-
     [Header("Gun Configuration")]
     public float damage;
     public float range;

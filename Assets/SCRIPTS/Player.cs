@@ -7,9 +7,13 @@ public class Player : MonoBehaviour
 
     //public int energyMAX;
     public int point;
+    public float aceleracao;
+    float _aceleracao;
+    public float move;
     //public float velocidade = 10f;
     //public float moveX = 0f; // mover no eixo X
-    //Rigidbody2D rigidBody2D; // Fisica 2D - Corpo Rigido
+
+    Rigidbody2D rigidBody2D; // Fisica 2D - Corpo Rigido
 
 
     private float velocidade;
@@ -20,14 +24,22 @@ public class Player : MonoBehaviour
 	{
         velocidade = 2;
         direcao = Vector2.zero;
-        //rigidBody2D = GetComponent<Rigidbody2D> ();
+        rigidBody2D = GetComponent<Rigidbody2D> ();
 	}
 
 	void Update () 
 	{
+        rigidBody2D.AddForce(new Vector2(_aceleracao, 0), ForceMode2D.Force);
+
+        if (rigidBody2D.velocity.x > 25 || rigidBody2D.velocity.x < -15)
+        {
+            _aceleracao = 0;
+        }
+
+
         InputPersonagem();
         transform.Translate(direcao * velocidade * Time.deltaTime);
-        Debug.Log("PONTOS " + point);
+        //Debug.Log("PONTOS " + point);
         /*
         moveX = Input.GetAxis ("Horizontal");
 			rigidBody2D.velocity = new Vector2 (moveX * 0, rigidBody2D.velocity.y);
@@ -45,14 +57,17 @@ public class Player : MonoBehaviour
     {
         direcao = Vector2.zero;
 
-        if (Input.GetKey(KeyCode.UpArrow))
+
+        if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow))
         {
-            direcao += Vector2.up;
+            transform.Translate(0, move * Time.deltaTime, 0);
         }
-        if (Input.GetKey(KeyCode.DownArrow))
+
+        if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow))
         {
-            direcao += Vector2.down;
+            transform.Translate(0, -move * Time.deltaTime, 0);
         }
+
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             direcao += Vector2.left;
