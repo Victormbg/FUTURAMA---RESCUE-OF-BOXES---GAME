@@ -1,24 +1,34 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Player : MonoBehaviour 
 {
 
-	public int energyMAX;
-	public int point;
-	public float velocidade = 10f;
-	public float moveX = 0f; // mover no eixo X
-	
-	Rigidbody2D rigidBody2D; // Fisica 2D - Corpo Rigido
-	
-	void Start()
+    //public int energyMAX;
+    public int point;
+    //public float velocidade = 10f;
+    //public float moveX = 0f; // mover no eixo X
+    //Rigidbody2D rigidBody2D; // Fisica 2D - Corpo Rigido
+
+
+    private float velocidade;
+    private Vector2 direcao;
+
+    // Start is called before the first frame update
+    void Start()
 	{
-		rigidBody2D = GetComponent<Rigidbody2D> ();
+        velocidade = 3;
+        direcao = Vector2.zero;
+        //rigidBody2D = GetComponent<Rigidbody2D> ();
 	}
 
 	void Update () 
 	{
-			moveX = Input.GetAxis ("Horizontal");
+        InputPersonagem();
+        transform.Translate(direcao * velocidade * Time.deltaTime);
+        /*
+        moveX = Input.GetAxis ("Horizontal");
 			rigidBody2D.velocity = new Vector2 (moveX * 0, rigidBody2D.velocity.y);
 			
 			if (Input.GetKeyDown (KeyCode.W)) 
@@ -27,6 +37,28 @@ public class Player : MonoBehaviour
 			}
 	
 		Debug.Log ("PONTOS " + point);
-
+        */
 	}
-  }
+
+    void InputPersonagem()
+    {
+        direcao = Vector2.zero;
+
+        if (Input.GetKey(KeyCode.UpArrow))
+        {
+            direcao += Vector2.up;
+        }
+        if (Input.GetKey(KeyCode.DownArrow))
+        {
+            direcao += Vector2.down;
+        }
+        if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            direcao += Vector2.left;
+        }
+        if (Input.GetKey(KeyCode.RightArrow))
+        {
+            direcao += Vector2.right;
+        }
+    }
+}

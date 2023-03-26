@@ -12,7 +12,7 @@ public class jogadormovimentosbasicos : MonoBehaviour {
     private float velocidadeFrente;
     private float velocidadeTras;
     private float velocidadeLado;
-    private float velocidadeCima;
+    //private float velocidadeCima;
 
     
     void Start () {
@@ -23,7 +23,7 @@ public class jogadormovimentosbasicos : MonoBehaviour {
 
         velocidadeFrente = 50f;
         velocidadeLado = 40f;
-        velocidadeCima = 50f;
+        //velocidadeCima = 50f;
         velocidadeTras = 50;
 
         velocidadeFrente = 50*Time.deltaTime; //Velocidade para a Frente

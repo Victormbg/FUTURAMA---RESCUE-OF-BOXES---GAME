@@ -1299,7 +1299,7 @@ MonoBehaviour:
   energyMAX: 0
   point: 0
   velocidade: 10
-  moveX: 0
+  moveX: 5
 --- !u!212 &1201673608
 SpriteRenderer:
   m_ObjectHideFlags: 0
